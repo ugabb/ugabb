@@ -5,11 +5,7 @@
   </a><br>
 </div>
 
-<div align="center">
-  <a href="https://github.com/ugabb">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ugabb&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ugabb&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ugabb&layout=compact)](https://github.com/ugabb/github-readme-stats)
 
 
 <div align="center" valign="top"><br>
