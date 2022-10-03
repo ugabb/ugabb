@@ -1,11 +1,17 @@
 <div>
   <h1 align="center">Hi, my name is<a href="https://www.linkedin.com/in/edududuribeiro/"><i> Gabriel Barros</i></a> 😃️</h1>
-  <p align="center">I'm a computer science student
+  <p align="center">I'm 20y
+  <p align="center">I'm a computer science student. 4th semester
+  <p align="center">React Student
     <p align="center">Brazilian 🇧🇷
   </a><br>
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ugabb&layout=compact)](https://github.com/ugabb/github-readme-stats)
+<div align="center" valign="top">
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ugabb&layout=compact)](https://github.com/ugabb/github-readme-stats)
+  
+</div>
 
 
 <div align="center" valign="top"><br>
