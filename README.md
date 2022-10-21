@@ -1,5 +1,5 @@
 <div>
-  <h1 align="center">Hi, my name is<a href="https://www.linkedin.com/in/edududuribeiro/"><i> Gabriel Barros</i></a> 😃️</h1>
+  <h1 align="center">Hi, my name is<a href="https://www.linkedin.com/in/ugab/"><i> Gabriel Barros</i></a> 😃️</h1>
   <p align="center">I'm 20y
   <p align="center">I'm a computer science student. 4th semester
   <p align="center">React Student
