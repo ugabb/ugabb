@@ -1,9 +1,10 @@
 <div>
-  <h1 align="center">Hi, my name is<a href="https://www.linkedin.com/in/ugab/"><i> Gabriel Barros</i></a> 😃️</h1>
-  <p align="center">I'm 20y
-  <p align="center">I'm a computer science student. 4th semester
-  <p align="center">React Student
-    <p align="center">Brazilian 🇧🇷
+  <h1>Hi, my name is<a href="https://www.linkedin.com/in/ugab/"><i> Gabriel Barros</i></a> 😃️</h1>
+    <p>- I'm 2️⃣1️⃣y
+    <p>- 🖥 I'm a computer science student.
+    <p>- 5️⃣th Semester.
+    <p>- 🌱 I’m currently learning NodeJs and ReactJs.
+    <p>- 🟢🟡Brazilian 🇧🇷
   </a><br>
 </div>
 
