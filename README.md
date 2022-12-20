@@ -1,18 +1,22 @@
-<div>
-  <h1>Hi, my name is<a href="https://www.linkedin.com/in/ugab/"><i> Gabriel Barros</i></a> 😃️</h1>
-    <p>- I'm 2️⃣1️⃣y
+ <h1>Hi, my name is<a href="https://www.linkedin.com/in/ugab/"><i> Gabriel Barros</i></a> 😃️</h1>
+  <img align="right" style="vertical-align:top" alt="HTML" height="300" width="300" src="https://user-images.githubusercontent.com/76067595/208677077-2c9852d7-05bb-4de6-a733-9c32d0ae2ae7.svg">
+ 
+ <div dsplay="inline-block">
+    <p style="vertical-align:top;">- I'm 2️⃣1️⃣y</p>
     <p>- 🖥 I'm a computer science student.
     <p>- 5️⃣th Semester.
     <p>- 🌱 I’m currently learning NodeJs and ReactJs.
     <p>- 🟢🟡Brazilian 🇧🇷
-  </a><br>
+</div>
+ 
+  
 </div>
 
-<div align="center" valign="top">
+<div display="flex" justify-content="space-around" align="center" >
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ugabb&layout=compact)](https://github.com/ugabb/github-readme-stats)
   
-</div>
+ </div>
 
 
 <div align="center" valign="top"><br>
