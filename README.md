@@ -14,7 +14,7 @@
 
 <div display="flex" justify-content="space-around" align="center" >
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ugabb&layout=compact)](https://github.com/ugabb/github-readme-stats)
+  [![uGab GitHub stats](https://github-readme-stats.vercel.app/api?username=ugabb)](https://github.com/ugabb/github-readme-stats)
   
  </div>
 
