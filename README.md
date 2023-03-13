@@ -5,7 +5,7 @@
     <p style="vertical-align:top;">- I'm 2️⃣1️⃣y</p>
     <p>- 🖥 I'm a computer science student.
     <p>- 5️⃣th Semester.
-    <p>- 🌱 I’m currently learning NodeJs and ReactJs.
+    <p>- 🌱 I’m currently learning TypeScript and Redux.
     <p>- 🟢🟡Brazilian 🇧🇷
 </div>
  
