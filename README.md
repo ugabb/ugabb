@@ -14,6 +14,7 @@
 
 <div display="flex" justify-content="space-around" align="center" >
   
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ugabb)](https://github.com/ugabb/github-readme-stats)
   
  </div>
 
