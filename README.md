@@ -2,13 +2,13 @@
   <img align="right" style="vertical-align:top" alt="HTML" height="300" width="300" src="https://user-images.githubusercontent.com/76067595/208677077-2c9852d7-05bb-4de6-a733-9c32d0ae2ae7.svg">
   <img align="right" style="vertical-align:top" alt="HTML" height="150" width="150" src="public/geometry-animation.gif">
  
- <div dsplay="inline-block">
-    <p style="vertical-align:top;">- I'm 22y</p>
-    <p>- 🖥 I'm a computer science student.
-    <p>- 7th Semester. ⌛7/8
-    <p>- 🌱 I’m currently learning Next.js and Fastify.
-    <p>- 🟢🟡Brazilian 🇧🇷
-</div>
+ <ul dsplay="inline-block">
+    <li style="vertical-align:top;"> I'm 22y</li>
+    <li> 🖥 I'm a computer science student.
+    <li> 7th Semester. ⌛7/8
+    <li> 🌱 I’m currently learning Next.js and Fastify.
+    <li> 🟢🟡Brazilian 🇧🇷
+</ul>
  
   
 </div>
@@ -22,23 +22,25 @@
 
 <div align="center" valign="top"><br>
 
+<div align="center">
+  <!--<a href="https://www.youtube.com/channel/UCViaNBT0SIeiVnZSEEtIfjw?sub_confirmation=1" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>-->
+<!--   <a href="https://www.instagram.com/ugab__/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> -->
+  <!-- <a href="https://www.facebook.com/pr.eduardoribeiro" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>  -->
+  <a href="https://gabrieldev.pro" target="_blank"><img src="https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/ugab/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="mailto:ugabrieldev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
+
+
+<h2>Technologies</h2>
+
  <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nextjs,react,angular,tailwindcss,sass,nodejs,express,spring,java,mongodb,postgresql,html,css,javascript,typescript,git,github" />
   </a>
 </p>
 
-  <p></p>
-  
-<div style="display: flex; align-items: center;">
-    <a href="https://www.linkedin.com/in/ugab/">
-        <img src="https://skillicons.dev/icons?i=linkedin" />
-    </a>
-    <div style="display: flex; flex-direction: column; align-items: center; margin-left: 10px;">
-        <img src="https://skillicons.dev/icons?i=gmail" style="margin-right: 5px;" />
-    </div>  
-        <span style="color: #666;">ugabrieldev@gmail.com</span>
-</div>
+
 
 
 <div align="center">
