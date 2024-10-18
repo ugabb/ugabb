@@ -6,7 +6,7 @@
     <li style="vertical-align:top;"> I'm 22y</li>
     <li> 🖥 I'm a computer science student.
     <li> 7th Semester. ⌛7/8
-    <li> 🌱 I’m currently Working for Patrini.
+    <li> 🌱 I’m currently Working for <a href="https://www.construtorapatriani.com.br/" target="_blank">Patriani</a> as Front End Developer
     <li> 🟢🟡Brazilian 🇧🇷
 </ul>
  
