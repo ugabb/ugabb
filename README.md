@@ -3,9 +3,8 @@
   <img align="right" style="vertical-align:top" alt="HTML" height="150" width="150" src="public/geometry-animation.gif">
  
  <ul dsplay="inline-block">
-    <li style="vertical-align:top;"> I'm 22y</li>
-    <li> 🖥 I'm a computer science student.
-    <li> 7th Semester. ⌛7/8
+    <li style="vertical-align:top;"> I'm 23y</li>
+    <li> 🎓 Bachelor of Computer Science
     <li> 🌱 I’m currently Working for <a href="https://www.construtorapatriani.com.br/" target="_blank">Patriani</a> as Front End Developer
     <li> 🟢🟡Brazilian 🇧🇷
 </ul>
