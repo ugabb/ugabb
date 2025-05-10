@@ -5,7 +5,7 @@
  <ul dsplay="inline-block">
     <li style="vertical-align:top;"> 😁 I'm 23y</li>
     <li> 🎓 Bachelor of Computer Science
-    <li> 🌱 I’m currently Working for <a href="https://www.construtorapatriani.com.br/" target="_blank">Patriani</a> as Front End Developer
+    <li> 🌱 I’m currently Working for <a href="https://en.cadastra.com/" target="_blank">Cadastra</a> as Front End Developer
     <li> 🟢🟡Brazilian 🇧🇷
 </ul>
  
